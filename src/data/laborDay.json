@@ -1,0 +1,23 @@
+
+{
+    "title" : "90% off on labor day",
+     "products ": [
+         {
+             "title": "Yeezy 720 Boost",
+             "price" : 400,
+             "image_url": "https://www.guojuo.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/4/1/41hjmnypwwt.png"
+         },
+         
+         {
+            "title": "Air 687 Boost",
+            "price" : 165,
+            "image_url":"https://www.guojuo.com/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/1/x/1xpfmkkr132.png"
+        },
+        {
+            "title": "lebrons 8",
+            "price" : 456,
+            "image_url":"https://www.guojuo.com/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/t/g/tgqxrvqpj0v.png"
+        }
+        
+     ]
+}

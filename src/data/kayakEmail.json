@@ -1,0 +1,51 @@
+{
+    "title": "Fly To Ireland with less than $700 round trip plus more!",
+"dealOfTheDay": {
+    "location": "Ireland",
+    "description":"8 days with air,hotel and car rental. Use promo code CFDL110 to save. Price refelcts NYC departure, other cities available.",
+    "saveAmount":"save $110 with code",
+    "tinyInfo":"Gate 1 Travel",
+    "price":"649+",
+    "link":"#",
+    "image": "https://i.imgur.com/lAtVtTa.png"
+
+},
+
+
+"offer":[
+    {
+        "location":"cancun",
+        "description":"4 nights with air and Melody Mkaer Cancun stay. price reflects MIA departure, other cites available.",
+        "saveAmount": "Save upto 65%",
+        "tintyInfo":"cheapCaribbean.com",
+        "price":"689",
+        "link":"#",
+        "image":"https://i.imgur.com/hMnHk9T.png"
+    
+    },
+    {
+        "location":"China",
+        "description":"Spend 7 nights in the heart of beijin.",
+        "saveAmount": "Save upto 35%",
+        "tintyInfo":"Chinaair.com",
+        "price":"989",
+        "link":"#",
+        "image":"https://i.imgur.com/8rNOkni.jpg"
+    
+    
+    },
+    {
+        "location":"london",
+        "description":"Visit the Castles at London castles.",
+        "saveAmount": "Save upto 75%",
+        "tintyInfo":"cheapCaribbean.com",
+        "price":"1300",
+        "link":"#",
+        "image":"https://i.imgur.com/cGiJuCG.png"
+    
+    
+    }
+]
+
+
+}
